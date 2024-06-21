@@ -1,6 +1,6 @@
 # IBM Quantum Challenge 2024 Repository
 
-Welcome to the IBM Quantum Challenge 2024 repository! Here, you will find my solutions and contributions for the challenge.
+Welcome to the IBM Quantum Challenge 2024 repository! Here, you will find my solutions to the challenge.
 
 ## Overview
 The IBM Quantum Challenge 2024 was an extraordinary event, representing the largest IBM quantum challenge to date, with approximately 5000 participants. This year, IBM introduced Qiskit 1.0, the first stable release of the Qiskit SDK, which enables utility-scale quantum computation. The challenge revolved around leveraging Qiskit 1.0 for a variety of quantum computational tasks, catering to both beginners and experienced quantum enthusiasts.
@@ -38,5 +38,5 @@ Visit the [GitHub repository](https://github.com/qiskit-community/ibm-quantum-ch
 - `lab_bonus/`: Directory with solutions for the bonus challenge.
 
 ### Lab details
-[CLicke here]() for more details on labs included in this challenge.
+[CLicke here](https://github.com/Krishna317/IBMQuantumChallenge2024/blob/82b0e7136e46f2efb7c34f4169a72a9265e0b72d/lab_details.md) for more details on labs included in this challenge.
 
