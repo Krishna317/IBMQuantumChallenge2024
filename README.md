@@ -1,4 +1,4 @@
-# IBM Quantum Challenge 2024 Repository
+# IBM Quantum Challenge 2024
 
 Welcome to the IBM Quantum Challenge 2024 repository! Here, you will find my solutions to the challenge.
 
