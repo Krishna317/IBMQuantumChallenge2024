@@ -38,5 +38,5 @@ Visit the [GitHub repository](https://github.com/qiskit-community/ibm-quantum-ch
 - `lab_bonus/`: Directory with solutions for the bonus challenge.
 
 ### Lab details
-[CLicke here](https://github.com/Krishna317/IBMQuantumChallenge2024/blob/82b0e7136e46f2efb7c34f4169a72a9265e0b72d/lab_details.md) for more details on labs included in this challenge.
+[Click here](https://github.com/Krishna317/IBMQuantumChallenge2024/blob/82b0e7136e46f2efb7c34f4169a72a9265e0b72d/lab_details.md) for more details on labs included in this challenge.
 
